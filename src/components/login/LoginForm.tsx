@@ -80,6 +80,6 @@ const LoginForm: FC<Props> = () => {
 			</form>
 		</section>
 	);
-}
+};
 
 export default LoginForm;

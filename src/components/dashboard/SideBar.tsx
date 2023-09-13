@@ -67,6 +67,6 @@ const SideBar: FC<Props> = ({ setIsMenuOpen, isMenuOpen }) => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default SideBar;

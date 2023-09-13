@@ -72,6 +72,6 @@ const UsersTable: FC<Props> = ({ users, loading }) => {
 			</table>
 		</div>
 	);
-};
+}
 
 export default UsersTable;

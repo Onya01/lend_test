@@ -120,6 +120,6 @@ const UserDetailsMain: FC<Props> = ({ user }) => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default UserDetailsMain;

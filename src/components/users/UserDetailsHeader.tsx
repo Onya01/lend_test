@@ -46,6 +46,6 @@ const UserDetailsHeader: FC<Props> = ({user}) => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default UserDetailsHeader

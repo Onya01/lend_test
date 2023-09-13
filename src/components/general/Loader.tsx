@@ -4,6 +4,6 @@ const Loader = () => {
 			<img src="/images/loader.gif" alt="/loader" />
 		</div>
 	);
-};
+}
 
 export default Loader;

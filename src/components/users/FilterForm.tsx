@@ -86,6 +86,6 @@ const FilterForm: FC<Props> = () => {
 			</div>
 		</form>
 	);
-};
+}
 
 export default FilterForm;

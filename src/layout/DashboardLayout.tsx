@@ -22,6 +22,6 @@ const DashboardLayout: FC<Props> = () => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default DashboardLayout

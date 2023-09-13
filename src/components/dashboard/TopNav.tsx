@@ -35,6 +35,6 @@ const TopNav: FC<Props> = ({ setIsMenuOpen, isMenuOpen }) => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default TopNav;

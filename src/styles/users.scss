@@ -196,7 +196,7 @@
 			border-radius: 4px;
 		}
 	}
-}
+};
 
 .filter-form {
 	width: 270px;
@@ -220,6 +220,7 @@
 			font-weight: 500;
 			text-transform: capitalize;
 		}
+
 		input,
 		select {
 			width: 100%;
@@ -235,7 +236,8 @@
 				outline: none;
 			}
 		}
-	}
+	};
+
 	div {
 		&:last-child {
 			display: flex;
@@ -254,7 +256,7 @@
 			}
 		}
 	}
-}
+};
 
 .options-dropdown {
 	width: 180px;
@@ -267,6 +269,7 @@
 	border-radius: 4px;
 	padding: 10px 20px;
 	z-index: 20;
+
 	li {
 		display: flex;
 		align-items: center;
@@ -278,4 +281,4 @@
 		cursor: pointer;
 		padding: 10px 0;
 	}
-}
+};

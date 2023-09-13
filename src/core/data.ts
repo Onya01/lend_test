@@ -178,4 +178,4 @@ export const usersStats = [
 		icon: '/images/icons/user-stat-icon-4.svg',
 		count: '102,453'
 	},
-];
+]

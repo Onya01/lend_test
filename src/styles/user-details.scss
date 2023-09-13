@@ -26,6 +26,7 @@
 			align-items: flex-start;
 			gap: 20px;
 		}
+
 		h1 {
 			color: $bluePrimary;
 			font-size: 24px;
@@ -46,6 +47,7 @@
 				font-size: 12px;
 			}
 		}
+
 		button:last-child {
 			@include buttonStyle;
 			background-color: transparent;
@@ -56,7 +58,7 @@
 				font-size: 12px;
 			}
 		}
-	}
+	};
 
 	.user-header {
 		overflow-x: auto;
@@ -121,7 +123,7 @@
 					align-items: center;
 					gap: 5px;
 				}
-			}
+			};
 
 			div:last-child {
 				color: $bluePrimary;

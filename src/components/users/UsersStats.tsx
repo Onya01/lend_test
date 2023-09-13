@@ -17,6 +17,6 @@ const UsersStats: FC<Props> = () => {
 			})}
 		</div>
 	);
-}
+};
 
 export default UsersStats;

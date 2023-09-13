@@ -43,6 +43,6 @@ const UserInfoCard:FC<Props> = () => {
 			</div>
 		</div>
 	);
-};
+}
 
 export default UserInfoCard

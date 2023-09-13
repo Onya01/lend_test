@@ -55,4 +55,4 @@ const UserDetail: FC<Props> = () => {
 	);
 }
 
-export default UserDetail;
+export default UserDetail

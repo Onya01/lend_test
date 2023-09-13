@@ -9,17 +9,14 @@
 	src: local('AvenirNext'), url("../fonts/AvenirNextLTPro-Regular.otf") format('truetype');
 }
 
-// Colors
 $bluePrimary: #213f7d;
 $textPrimary: #545f7d;
 $greenPrimary: #39cdcc;
 
-// Fonts
 $workSans: 'Work Sans', sans-serif;
 $avenirNext: 'Avenir next', sans-serif;
 $avenirNextBold: 'Avenir next bold', sans-serif;
 
-// Breakpoints
 @mixin breakpointMobile {
 	@media (max-width: 599px) {
 		@content;
@@ -44,7 +41,6 @@ $avenirNextBold: 'Avenir next bold', sans-serif;
 	}
 }
 
-// Primary button
 @mixin buttonStyle {
 	background-color: $greenPrimary;
 	color: #ffffff;
@@ -56,7 +52,7 @@ $avenirNextBold: 'Avenir next bold', sans-serif;
 	font-size: 14px;
 	outline: none;
 	cursor: pointer;
-}
+};
 
 @mixin input {
 	width: 100%;
@@ -67,4 +63,4 @@ $avenirNextBold: 'Avenir next bold', sans-serif;
 	font-size: 14px;
 	color: $textPrimary;
 	outline: none;
-}
+};

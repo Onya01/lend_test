@@ -17,7 +17,7 @@ const MoreDropDown: FC<Props> = () => {
 				</li>
 			</ul>
 		</div>
-	)
+	);
 };
 
 export default MoreDropDown;

@@ -12,4 +12,4 @@ export interface UserModel {
     profile: String,
     socials: Object,
     userName: String
-}
+};
